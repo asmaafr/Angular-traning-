@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+:host(app-register) {
+    display: flex;
+    flex-direction: column;
+    min-height: 86vh;
+  }
+  
